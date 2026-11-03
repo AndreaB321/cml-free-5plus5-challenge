@@ -6,6 +6,8 @@ The lab is in [`cml-free-5plus5-challenge.yaml`](cml-free-5plus5-challenge.yaml)
 
 ## Topology
 
+![Lab topology in the CML Workbench](topology.png)
+
 ```
 PC1 ─┐                                       ┌─ DNS-DHCP (dnsmasq) 10.20.20.10
      SW1 (IOL-L2) ── R1 (IOL-XE) ── SRV-SW ──┤
